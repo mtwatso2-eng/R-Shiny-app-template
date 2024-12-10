@@ -1,3 +1,3 @@
-# Shiny App
+# R Shiny App Template
 
-Shiny App is an R Shiny web app designed to make data more accessible to North Carolina State University's Sweetpotato Breeding and Genetics Program. You can ask questions, report bugs and suggest features by emailing Mark at mtwatso2@ncsu.edu.
+This is a template for an R Shiny app using a custom framework for modules.
